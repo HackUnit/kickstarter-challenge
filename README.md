@@ -15,7 +15,8 @@ To help Louise have a successful campaign and find the right number for her budg
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/60809860/174191050-58656a3e-1c44-4ded-b7e4-98364f9c26a5.png)
+<img width="1815" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/60809860/174191879-1838f698-cf3e-48c4-a27b-55c15caf7633.png">
+
 
 
 ### Challenges and Difficulties Encountered
